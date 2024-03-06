@@ -1,0 +1,4 @@
+git init
+git add .
+git commit -m "Learning Git Basics. - First commit"
+git push
